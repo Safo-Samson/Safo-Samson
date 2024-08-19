@@ -3,7 +3,7 @@
 * I have worked for these companies as a developer:
   * Coveo <img src="https://github.com/user-attachments/assets/a95c009e-d137-449c-9f4e-9d0c21326893" alt="Coveo Logo" width="50" height="25" />
   * Publicis Sapient <img src="https://github.com/user-attachments/assets/68bcba13-be2e-46b8-89f7-f6f48c122acb" alt="Publicis Sapient Logo" width="30" height="30"/>
-  * CMC Market <img src="https://github.com/user-attachments/assets/37e94cca-51ca-416e-854c-e1137f2f87e2" alt="CMC Market Logo" width="30" height="30"/>
+  * CMC Market <img src="https://github.com/user-attachments/assets/78e21e35-1cfa-44a5-a672-4d3efe059b9d" alt="CMC Market Logo" width="60" height="30"/>
 * Feel Free to checkout my <a href="https://safosamson.me/about" target="_blank"> portfolio website </a> to know more about me!
 
 <!--
