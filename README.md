@@ -38,13 +38,13 @@
   <img alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="AWS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="NodeJS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<!--   <img alt="NodeJS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp; -->
   <img alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="C++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Spring" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Junit" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="SalesForce" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg"/>
+  <img alt="Spring" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<!--   <img alt="docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp; -->
+<!--   <img alt="Junit" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="SalesForce" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg"/> -->
 </div>
 
 
