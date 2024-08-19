@@ -30,23 +30,26 @@
 <h3 align="center">LANGUAGES AND FRAMEWORKS</h3>
 
 <div align="center">
-  <img alt="Java" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
-  <img  alt="JavaScript" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img  alt="React" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
-  <img  align="right"alt="TypeScript" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-  <img  align="left"alt="Flutter" width="50px" s src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
-  <img  align="left" alt="HTML" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/>
-  <img align="right" alt="CSS" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"/>
-  <img align="right" alt="AWS" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-  <img align="left"alt="NodeJS" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/>
-  <img  align="left"alt="Python" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
-  <img align="right"alt="C++" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-   <img align="right"alt="Spring" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-   <img align="left"alt="docker" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
-   <img align="left"alt="Junit" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" />
-    <img align="right"alt="SalesForce" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" />
-          
+  <img alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Flutter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="AWS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="NodeJS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="C++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Spring" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Junit" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="SalesForce" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg"/>
 </div>
+
+
+
+
 <br/>
 <hr>
 
