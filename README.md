@@ -5,14 +5,16 @@
   * Publicis Sapient
   * CMC Market
 * Feel Free to checkout my <a href="https://safosamson.me/about" target="_blank"> portfolio website </a> to know more about me!
----
 
+<!--
   <a href="https://github.com/Safo-Samson?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Safo-Samson?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/Safo-Samson?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Safo-Samson?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/Safo-Samson/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+-->
+
 
 ---
 <h3 style="text-align: center">LANGUAGES AND FRAMEWORKS</h3>
