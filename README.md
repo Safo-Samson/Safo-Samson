@@ -1,10 +1,11 @@
-# Hi there 👋, I'm Safo Samson 
+## Howdy👋, Safo Samson here!
 * I am a software engineer in the United Kingdom.
-* I have worked for these companies:
-  Coveo
-  Publicis Sapient
-  CMC Market
+* I have worked for these companies as a developer:
+  * Coveo 
+  * Publicis Sapient
+  * CMC Market
 * Feel Free to checkout my <a href="https://safosamson.me/about" target="_blank"> portfolio website </a> to know more about me!
+---
 
   <a href="https://github.com/Safo-Samson?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Safo-Samson?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -31,17 +32,19 @@
 </p>
 <br/>
 <br/>
+<br/>
+<hr>
 
 <h3>DATABASES</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" style="height: 40px;"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" style="height: 40px;"></a>
-    <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white" style="height: 40px;"></a>
-    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" style="height: 40px;"></a>
-    <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white" style="height: 40px;"></a>
-    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffca28.svg?logo=firebase&logoColor=black" style="height: 40px;"></a>
-    <a href="#"><img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927.svg?logo=microsoftsqlserver&logoColor=white" style="height: 40px;"></a>
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" style="height: 30px;"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" style="height: 30px;"></a>
+    <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white" style="height: 30px;"></a>
+    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" style="height: 30px;"></a>
+    <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white" style="height: 30px;"></a>
+    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffca28.svg?logo=firebase&logoColor=black" style="height: 30px;"></a>
+    <a href="#"><img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927.svg?logo=microsoftsqlserver&logoColor=white" style="height: 30px;"></a>
 </div>
 
             
@@ -56,5 +59,5 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Safo-Samson&theme=monokai-metallian&hide_border=true"/></a>
   <br/>
   
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Samson's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Safo-Samson&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<!--  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Samson's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Safo-Samson&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -- >
 
