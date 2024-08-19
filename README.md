@@ -12,7 +12,6 @@ Skills: JAVA/ C++/ REACT / JS / DART/ FLUTTER / FIREBASE/ TYPESCRIPT
 
 <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Safo-Samson)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Safo-Samson&show_icons=true&count_private=true)  
 
