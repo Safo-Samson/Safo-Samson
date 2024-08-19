@@ -2,7 +2,7 @@
 * I am a software engineer in the United Kingdom.
 * I have worked for these companies as a developer:
   * Coveo <img src="https://github.com/user-attachments/assets/37e94cca-51ca-416e-854c-e1137f2f87e2" alt="Coveo Logo" width="30" height="30"/>
-  * Publicis Sapient <img src="https://github.com/user-attachments/assets/37e94cca-51ca-416e-854c-e1137f2f87e2" alt="Publicis Sapient Logo" width="30" height="30"/>
+  * Publicis Sapient <img src="https://github.com/user-attachments/assets/68bcba13-be2e-46b8-89f7-f6f48c122acb" alt="Publicis Sapient Logo" width="30" height="30"/>
   * CMC Market <img src="https://github.com/user-attachments/assets/37e94cca-51ca-416e-854c-e1137f2f87e2" alt="CMC Market Logo" width="30" height="30"/>
 * Feel Free to checkout my <a href="https://safosamson.me/about" target="_blank"> portfolio website </a> to know more about me!
 
