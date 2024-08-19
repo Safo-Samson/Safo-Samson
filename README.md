@@ -1,8 +1,8 @@
-### Hi there 👋, Safo Samson 
-#### Software Engineer 
-I am a software engineer in the United Kingdom.
-I have worked for Coveo, Publicis Sapients and CMC Market.
+# Hi there 👋, I'm Safo Samson 
+* I am a software engineer in the United Kingdom.
+* I have worked for Coveo, Publicis Sapients and CMC Market.
 
+## Skills And Experience
 Skills: JAVA/ C++/ REACT / JS / DART/ FLUTTER / FIREBASE/ TYPESCRIPT
 
 - 🔭 I’m currently working on this page. 
