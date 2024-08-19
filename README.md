@@ -1,9 +1,9 @@
 ## Howdy👋, Safo Samson here!
 * I am a software engineer in the United Kingdom.
 * I have worked for these companies as a developer:
-  * Coveo 
-  * Publicis Sapient
-  * CMC Market
+  * Coveo <img src="https://example.com/path-to-coveo-logo.png" alt="Coveo Logo" width="30" height="30"/>
+  * Publicis Sapient <img src="https://example.com/path-to-publicis-sapient-logo.png" alt="Publicis Sapient Logo" width="30" height="30"/>
+  * CMC Market <img src="https://example.com/path-to-cmc-market-logo.png" alt="CMC Market Logo" width="30" height="30"/>
 * Feel Free to checkout my <a href="https://safosamson.me/about" target="_blank"> portfolio website </a> to know more about me!
 
 <!--
