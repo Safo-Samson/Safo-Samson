@@ -1,5 +1,9 @@
-## Hi there 👋
+### SAFO SAMSON here😉
 
+* I am a software engineer in the United Kingdom.
+* I have worked for Coveo, Publicis Sapients and CMC Market.
+
+[![Samson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Safo-Samson)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Safo-Samson/Safo-Samson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
