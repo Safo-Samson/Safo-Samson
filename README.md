@@ -25,7 +25,7 @@ View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 ---
   
 <details> 
- <summary align="center"><h3>📈GITHUB STATS SUMMARY</h3>📉</summary>
+ <summary align="center"><h3>📈 GITHUB STATS SUMMARY 📉</h3> </summary>
 <div align="center">
   <a href="#"><img alt="Samson's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Safo-Samson&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&rank_icon=github" height="192px" /></a>
   <a href="#">    <img title="🔥 Safo's streak! Boy on fire!!!" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Safo-Samson&theme=monokai-metallian&hide_border=true" /></a>
@@ -37,7 +37,7 @@ View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 </details>
 
 <details> 
- <summary align="center"><h3>👨🏽‍💻LANGUAGES AND FRAMEWORKS👨🏽‍💻</h3> </summary>
+ <summary align="center"><h3>👨🏽‍💻 LANGUAGES AND FRAMEWORKS 👨🏽‍💻</h3> </summary>
 
 <div align="center">
   <img alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -60,7 +60,7 @@ View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 </details> 
 
 <details> 
- <summary align="center"><h3 align="center">📅DATABASES📅</h3> </summary>
+ <summary align="center"><h3 align="center">🔢 DATABASES 🔢</h3> </summary>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;" align="center">
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" style="height: 30px;"></a>
