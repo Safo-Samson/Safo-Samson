@@ -3,7 +3,7 @@
 * I am a software engineer in the United Kingdom <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="UK Flag" width="30" height="20" />. I have worked for these companies as a developer:
   * <b>Coveo</b>
   * <b>Publicis Sapient</b> 
-  * <b>CMC Market</b>
+  * <b>CMC Markets</b>
 * Feel Free to checkout my <a href="https://safosamson.me/about" target="_blank"> portfolio website </a> to know more about me!, and let's connect on <a href="https://www.linkedin.com/in/safosamson/" target="_blank"> LinkedIn 😉</a>
 
 <!-- Social badges section -->
