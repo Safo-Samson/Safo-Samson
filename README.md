@@ -1,4 +1,4 @@
-<h2 align="center"> Howdy👋, Safo Samson here!.</h2>
+<h2 align="center"> Howdy👋, Safo Samson here!!.</h2>
 
 * I am a software engineer in the United Kingdom 🇬🇧 worked for these companies as a developer:
   * 🏢 <b>Coveo</b>
