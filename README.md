@@ -41,6 +41,7 @@ View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 
 <div align="center">
   <img alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
+   <img alt="Spring" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -51,7 +52,6 @@ View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <!--   <img alt="NodeJS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp; -->
   <img alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="C++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Spring" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
 <!--   <img alt="docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp; -->
 <!--   <img alt="Junit" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg"/> &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="SalesForce" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg"/> -->
